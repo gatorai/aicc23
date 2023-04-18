@@ -16,7 +16,6 @@ $~$
 * [Machine Learning with Structured Patient Data](https://github.com/gatorai/aicc23/blob/main/Lake%20Nona%20-%203%20-%20Machine%20Learning%20with%20Structured%20Patient%20Data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gatorai/aicc23/blob/main/Lake%20Nona%20-%203%20-%20Machine%20Learning%20with%20Structured%20Patient%20Data.ipynb)
 
 $~$
-
 $~$
 
 **(Bonus Module): Introduction to Artificial Neural Networks**
